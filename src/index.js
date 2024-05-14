@@ -8,7 +8,6 @@ import { Route, Routes } from 'react-router-dom';
 import Home from './pages/Home';
 import About from './pages/About';
 import Contact from './pages/Contact';
-import "./app.css"
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
