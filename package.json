@@ -1,7 +1,7 @@
 {
   "name": "githubaction",
   "version": "0.1.0",
-  "home":"https://azadulkabir455.github.io/gitactions",
+  "home":"https://azadulkabir455.github.io/githubaction",
   "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
